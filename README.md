@@ -6,3 +6,6 @@
 | Alphatron | Alphatron Repeater Display MFM | all | Not vuln | Not vuln | Not vuln | Not vuln | | |
 | Alphatron | Alphatron Repeater Display MFL | all | Not vuln | Not vuln | Not vuln | Not vuln | | |
 | Alphatron | Alphatron Repeater Display MFC-TS | all | Not vuln | Not vuln | Not vuln | Not vuln | As delivered | |
+| Alphatron | AlphaRemote Control Interface (ARCIF) | R1.037 | Not vuln | Not vuln | Not vuln | Not vuln | | |
+| Alphatron | AlphaLine Ethernet module | all | Not vuln | Not vuln | Not vuln | Not vuln | | |
+| Alphatron | AlphaLine MFL-PC WIN10IoT | all | Not vuln | Not vuln | Not vuln | Not vuln | As delivered | |
